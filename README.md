@@ -1,5 +1,16 @@
 ### Hi there 👋
 
+ *I am Gurleen Kaur :).*
+ *she/her *
+*Curious to start my projects on Github.*
+*Interested in learning new programming languages.*
+*I’m currently learning R language and it's new functions.*
+*Love to play sports that is badminton and table tennis.*
+*Would love to work on different projects*
+
+
+
+
 <!--
 **gurleenkaur1999/gurleenkaur1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
