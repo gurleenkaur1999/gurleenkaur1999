@@ -6,7 +6,7 @@
 *Interested in learning new programming languages.*
 *I’m currently learning R language and it's new functions.*
 *Love to play sports that is badminton and table tennis.*
-*Would love to work on different projects*
+*Would love to work on different projects with you*
 
 
 
