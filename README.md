@@ -1,27 +1,16 @@
+
 ### Hi there 👋
 
- *I am Gurleen Kaur :).*
- *she/her *
-*Curious to start my projects on Github.*
-*Interested in learning new programming languages.*
-*I’m currently learning R language and it's new functions.*
-*Love to play sports that is badminton and table tennis.*
-*Would love to work on different projects with you*
+I'm Gurleen, a passionate data enthusiast with a background in Marketing and Data Analytics. 
+
+- 🎓 I hold a degree in Marketing and Data Analytics, which has equipped me with a strong foundation in data collection, analysis, and reporting.
+  
+- 🔍 My technical toolkit includes proficiency in SQL for querying and updating data, as well as advanced statistical analysis using R. I have extensive experience with SPSS for research purposes, demonstrating a high level of expertise in statistical analysis.
+  
+- 💡 Skilled in various aspects of data management, including data cleaning, extraction, transformation, loading, validation, and reporting. Additionally, my well-developed communication skills and ability to collaborate effectively make me a strong fit for any data-driven role.
+
+- 🚀 I'm passionate about leveraging data to drive informed decision-making and enjoy helping others achieve their goals through data-driven insights.
 
 
+ Feel free to connect with me on LinkedIn[https://www.linkedin.com/in/gurleen-kaur-790626174/]!
 
-
-<!--
-**gurleenkaur1999/gurleenkaur1999** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
